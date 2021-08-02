@@ -1,0 +1,127 @@
+.topconatiner{
+  padding-top: 50px;
+  background-color: #E8F6EF;
+  position: relative;
+}
+body{
+  margin:0;
+  text-align: center;
+  line-height: 1.5;
+  color: #40514E;
+}
+.i1{
+position: absolute;
+right: 350px;
+}
+.i2{
+position: absolute;
+left: 350px;
+}
+.profile{
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.skills{
+  margin-top: 40px;
+}
+.middlecontainer{
+}
+.bottom-container{
+  background-color: #66BFBF;
+  position: relative;
+  margin-top:20px;
+  padding:20px;
+}
+h1{
+  font-size: 90px;
+font-family: 'MonteCarlo', cursive;
+  display: inline-block;
+  margin-left: 10px;
+  margin: 50px auto 0 auto;
+  color:#66BFBF;
+}
+h2{
+
+  font-size:40px;
+  margin-top: 0;
+  color:#66BFBF;
+font-family: 'Pacifico', cursive;
+font-weight: normal;
+
+}
+h3{
+  color: #11999E;
+}
+a{
+  color: #11999E;
+
+}
+a:hover{
+  color:white;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto ;
+  text-align: left;
+  line-height: 2;
+}
+.giphy{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.developer{
+  width: 25%;
+  float: left;
+  margin-right:30px;
+}
+.footer-link{
+  padding: 10px;
+  font-size: 20px;
+  text-decoration: none;
+  color: #11999E;
+}
+.foot-note{
+  color: white;
+}
+.contact-me{
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.btn{
+       -webkit-border-radius: 10px;
+       -moz-border-radius: 10px;
+       border-radius: 10px;
+       color: #FFFFFF;
+       font-family: Open Sans;
+       font-size: 16px;
+       font-weight: 100;
+       padding: 9px;
+       background-color: #66BFBF;
+       text-decoration: none;
+       display: inline-block;
+       cursor: pointer;
+       text-align: center;
+    }
+
+    .BUTTON_PHX:hover {
+       border: solid #337FED 1px;
+       background: #1E62D0;
+       background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+       background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+       background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+       background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+       background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+       -webkit-border-radius: 20px;
+       -moz-border-radius: 20px;
+       border-radius: 20px;
+       text-decoration: none;
+    }
+hr{
+  width:3%;
+  border: 6px dotted #EAF6F6;
+  border-top: 0;
+  margin:100px auto;
+
+}
