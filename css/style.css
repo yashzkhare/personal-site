@@ -83,6 +83,7 @@ a:hover{
 }
 .foot-note{
   color: white;
+  font-size:13px;
 }
 .contact-me{
   margin-top: 40px;
@@ -105,9 +106,9 @@ a:hover{
        text-align: center;
     }
 
-    .BUTTON_PHX:hover {
+      .btn:hover {
        border: solid #337FED 1px;
-       background: #1E62D0;
+       background: white;
        background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
        background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
        background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
@@ -115,9 +116,10 @@ a:hover{
        background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
        -webkit-border-radius: 20px;
        -moz-border-radius: 20px;
-       border-radius: 20px;
+       border-radius: 8px;
        text-decoration: none;
     }
+
 hr{
   width:3%;
   border: 6px dotted #EAF6F6;
